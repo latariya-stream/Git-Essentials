@@ -1,1 +1,2 @@
 Second file that was created via VIM.
+We should check some Github features.
