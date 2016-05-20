@@ -1,2 +1,3 @@
 My first message in VIM !!! =)
 One more line in VIM
+Hello author!
